@@ -7,7 +7,7 @@ This is a simple guide to show how to deploy Jenkins using [Bitnami Stacksmith](
 1. Go to [stacksmith.bitnami.com](https://stacksmith.bitnami.com).
 2. Create a new application and select the `Java Tomcat Application` stack template.
 3. Select the targets you are interested on (AWS, Kubernetes,...).
-4. Download Jenkins manually or with the command below, and upload the `Jenkins.war` application file:
+4. Download Jenkins manually or with the command below, and upload the `jenkins.war` application file:
 
    ```bash
    wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
@@ -28,7 +28,7 @@ Stacksmith will compare the latest commit for a reference (e.g. new commits made
    ```
 
 2. Go to your app [stacksmith.bitnami.com](https://stacksmith.bitnami.com)
-3. Click on <kbd>Edit configuration</kbd>, delete the existing `Jenkins.war` and upload the new `Jenkins.war`.
+3. Click on <kbd>Edit configuration</kbd>, delete the existing `jenkins.war` and upload the new `jenkins.war`.
 4. Click <kbd>Update</kbd>.
 5. Wait for the new version to be built and re-deploy it in your favorite target platform.
 
