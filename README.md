@@ -36,7 +36,7 @@ Stacksmith will use the latest Application Scripts from the GitHub repository.
 
 ## Use the Stacksmith CLI for automating the process
 
-1. Go to [stacksmith.bitnami.com](https://stacksmith.bitnami.com), create a new application and select the `Jenkins` stack template.
+1. Go to [stacksmith.bitnami.com](https://stacksmith.bitnami.com), create a new application and select the `Java Tomcat Application` stack template.
 2. Install [Stacksmith CLI](https://github.com/bitnami/stacksmith-cli) and authenticate with Stacksmith.
 3. Download the latest version of Jenkins:
 
