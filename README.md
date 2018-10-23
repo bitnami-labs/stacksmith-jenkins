@@ -1,3 +1,5 @@
+[![View in Stacksmith](https://img.shields.io/badge/view_in-stacksmith-00437B.svg)](https://stacksmith.bitnami.com/p/bitnami-public/apps/5cc27550-b504-0136-77eb-52659d017641)
+
 # Jenkins
 
 This is a simple guide to show how to deploy Jenkins using [Bitnami Stacksmith](https://stacksmith.bitnami.com)
